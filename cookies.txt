@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.abcmouse.com	TRUE	/	FALSE	1999999999	track	T2637220671.1660621032.4082
+.abcmouse.com	TRUE	/	FALSE	1999999999	http_browser	HTTrack+3
+.abcmouse.com	TRUE	/	FALSE	1999999999	pathid	deleted
+

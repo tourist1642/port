@@ -1,0 +1,8 @@
+-qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.abcmouse.com/abc/?8a08850bc2=T2637220671.1660620996.5979&msclkid=8c656e75233e15c00da80c8e338ae3af&utm_campaignid=380531237&utm_adgroupid=1240249323191774&utm_adextensionid=&utm_targetid=kwd-77515753632943:loc-90&utm_matchtype=e&utm_network=o&utm_device=c&utm_devicemodel=&utm_creativeid=&utm_placement=&utm_adposition=&utm_geo={country}&msclkid=8c656e75233e15c00da80c8e338ae3af -O1 "C:\01-03" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+File generated automatically on Tue, 16 Aug 2022 09:06:56, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
